@@ -1,0 +1,1 @@
+# SourceMod Map Loader Plugin
